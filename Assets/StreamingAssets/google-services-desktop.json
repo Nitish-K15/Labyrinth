@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882061596642",
+    "project_id": "labyrinth-ef89e",
+    "storage_bucket": "labyrinth-ef89e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882061596642:android:543db39c22cee941538bbb",
+        "android_client_info": {
+          "package_name": "com.northcap.labyrinth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882061596642-5h485d6qi8okb6mn6d3hr2rradogqcve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfebK-rPMutaAA6BFn_SH6_xRvFGb49A0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882061596642-5h485d6qi8okb6mn6d3hr2rradogqcve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
